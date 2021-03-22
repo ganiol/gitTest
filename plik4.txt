@@ -1,1 +1,2 @@
 To jest 1 wersja pliku numer 4
+zmiana 1 pliku numer 4
