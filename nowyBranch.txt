@@ -1,2 +1,2 @@
-plik nowyBranch
-zmiana na masterze
+to jest zmiana ma branchu nowyBranch
+
