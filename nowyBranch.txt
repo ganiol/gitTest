@@ -1,1 +1,2 @@
 plik nowyBranch
+to jest zmiana ma branchu nowyBranch
